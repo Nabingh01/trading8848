@@ -90,3 +90,13 @@
     color: black;
   }
   /* background */
+
+  /* trading */
+  .trading{
+    background: url("../images/forexbanner.jpg") center center;
+    background-size: cover;
+    background: rgba(49, 71, 88, 0.7);
+  }
+  .tradingopa{
+    opacity: o.5;
+  }
